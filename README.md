@@ -14,8 +14,9 @@ The project started with a simple CNN model, which achieved an accuracy of aroun
 
 3. TensorBoard: TensorBoard was used for visualization purposes, providing insights into the training process, and helping to fine-tune the model.
 
-![[]]
+![Alt text](https://github.com/ChngJeremy/CSC3009-Assignment/blob/master/image/2665401.png)
 
+![Alt text](https://github.com/ChngJeremy/CSC3009-Assignment/blob/master/image/individualImage.png)
 ## Dataset
 
 The dataset consists of X-ray images, divided into two categories: COVID-19 and Normal. The images were preprocessed and augmented before being fed into the model.
