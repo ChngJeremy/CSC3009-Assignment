@@ -1,6 +1,4 @@
-Sure, here's a basic template for your README. You can modify it according to your needs.
 
----
 
 # COVID-19 Image Classification Project
 
@@ -15,6 +13,8 @@ The project started with a simple CNN model, which achieved an accuracy of aroun
 2. Transfer learning: A pre-trained VGG16 model was used, with the final layer replaced to suit our binary classification task. This significantly improved the accuracy to around 72-80%.
 
 3. TensorBoard: TensorBoard was used for visualization purposes, providing insights into the training process, and helping to fine-tune the model.
+
+![[]]
 
 ## Dataset
 
